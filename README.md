@@ -51,8 +51,8 @@ Example: Applying a 20% increment when an employee meets given conditions (years
     void comp(float *salary){
         *salary = *salary + (0.2 * (*salary));
     }
-Algorithms
-1. Calling by reference and value
+# Algorithms
+# 1. Calling by reference and value
 Steps
 
     Start
@@ -74,7 +74,7 @@ Steps
     Display the swapped values of a and b
     
     End
-2. Calling value by address
+# 2. Calling value by address
 Steps
 
     Start
@@ -98,7 +98,7 @@ Steps
     Display the swapped values of a and b
     
     End
-3. Employee salary increment
+# 3. Employee salary increment
 Steps
 
     1. Start
